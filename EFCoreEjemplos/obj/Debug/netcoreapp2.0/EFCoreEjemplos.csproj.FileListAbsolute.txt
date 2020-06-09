@@ -1,0 +1,12 @@
+D:\Microsoft Visual Studio\2019\Proyectos\EjemploEFCore20\EFCoreEjemplos\obj\Debug\netcoreapp2.0\EFCoreEjemplos.csprojAssemblyReference.cache
+D:\Microsoft Visual Studio\2019\Proyectos\EjemploEFCore20\EFCoreEjemplos\obj\Debug\netcoreapp2.0\EFCoreEjemplos.AssemblyInfoInputs.cache
+D:\Microsoft Visual Studio\2019\Proyectos\EjemploEFCore20\EFCoreEjemplos\obj\Debug\netcoreapp2.0\EFCoreEjemplos.AssemblyInfo.cs
+D:\Microsoft Visual Studio\2019\Proyectos\EjemploEFCore20\EFCoreEjemplos\obj\Debug\netcoreapp2.0\EFCoreEjemplos.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\2019\Proyectos\EjemploEFCore20\EFCoreEjemplos\bin\Debug\netcoreapp2.0\EFCoreEjemplos.deps.json
+D:\Microsoft Visual Studio\2019\Proyectos\EjemploEFCore20\EFCoreEjemplos\bin\Debug\netcoreapp2.0\EFCoreEjemplos.runtimeconfig.json
+D:\Microsoft Visual Studio\2019\Proyectos\EjemploEFCore20\EFCoreEjemplos\bin\Debug\netcoreapp2.0\EFCoreEjemplos.runtimeconfig.dev.json
+D:\Microsoft Visual Studio\2019\Proyectos\EjemploEFCore20\EFCoreEjemplos\bin\Debug\netcoreapp2.0\EFCoreEjemplos.dll
+D:\Microsoft Visual Studio\2019\Proyectos\EjemploEFCore20\EFCoreEjemplos\bin\Debug\netcoreapp2.0\EFCoreEjemplos.pdb
+D:\Microsoft Visual Studio\2019\Proyectos\EjemploEFCore20\EFCoreEjemplos\obj\Debug\netcoreapp2.0\EFCoreEjemplos.dll
+D:\Microsoft Visual Studio\2019\Proyectos\EjemploEFCore20\EFCoreEjemplos\obj\Debug\netcoreapp2.0\EFCoreEjemplos.pdb
+D:\Microsoft Visual Studio\2019\Proyectos\EjemploEFCore20\EFCoreEjemplos\obj\Debug\netcoreapp2.0\EFCoreEjemplos.genruntimeconfig.cache
